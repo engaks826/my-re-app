@@ -16,3 +16,4 @@ timestamp,feature1,feature2,model_prediction,user_label,strategy,feedback,sentim
 2025-06-05 08:28:34.904506,2.0,4.0,6.0,5.0,feedback_recall,,0.0,1.0
 2025-06-05 08:32:38.363447,3.0,4.0,5.61,5.0,feedback_recall,,0.0,1.0
 2025-06-05 13:54:07.653919,4.0,5.0,6.42,7.0,predict,,0.0,1.0
+2025-06-05 16:28:11.791100,4.0,6.0,7.07,8.0,predict,,0.0,1.0
