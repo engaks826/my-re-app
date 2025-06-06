@@ -1,3 +1,4 @@
 timestamp,feature1,feature2,model_prediction,label,strategy,feedback,sentiment,repeating,frequency
 2025-06-06 17:40:36.716948,1.0,2.0,5.159999847412109,5.0,feedback_recall,,0.0,1,1
 2025-06-06 17:56:30.159106,2.0,3.0,5.0,4.0,feedback_recall,not good,-0.3412,1,1
+2025-06-06 18:30:58.813212,3.0,3.0,3.5,7.0,predict,not good,-0.3412,1,1
