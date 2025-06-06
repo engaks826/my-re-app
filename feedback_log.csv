@@ -1,2 +1,2 @@
-timestamp,feature1,feature2,model_prediction,user_label,strategy,feedback,sentiment,repeating
-2025-06-06 08:07:36.717147,1.0,2.0,5.5,3.0,predict,,0.0,1
+timestamp,feature1,feature2,model_prediction,label,strategy,feedback,sentiment,repeating,frequency
+2025-06-06 17:40:36.716948,1.0,2.0,5.159999847412109,5.0,feedback_recall,,0.0,1,1
