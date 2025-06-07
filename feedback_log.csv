@@ -4,3 +4,4 @@ timestamp,feature1,feature2,model_prediction,label,strategy,feedback,sentiment,r
 2025-06-07 08:17:24.374828,3.0,3.0,5.5,7.0,predict,,0.0,1,1
 2025-06-07 08:24:18.585158,3.0,4.0,6.0,7.5,feedback_recall,,0.0,1,1
 2025-06-07 08:50:16.277816,1.0,2.0,3.6,3.0,predict,,0.0,2,1
+2025-06-07 09:21:35.840401,1.0,2.0,3.0,5.0,feedback_recall,good,0.4404,1,1
