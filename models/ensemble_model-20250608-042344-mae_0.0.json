@@ -1,0 +1,11 @@
+{
+  "type": "VotingRegressor",
+  "base_models": [
+    "best_ensemble_promoted_20250608-042331_mae_0.0.pkl",
+    "best_ensemble_promoted_0.000.pkl",
+    "best_tuner_0.276.pkl"
+  ],
+  "mae": 0.0,
+  "r2": NaN,
+  "saved_at": "20250608-042344"
+}

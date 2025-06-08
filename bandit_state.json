@@ -1,1 +1,1 @@
-{"successes": {"predict": 1, "feedback_recall": 1}, "failures": {"predict": 2, "feedback_recall": 1}}
+{"successes": {"predict": 1, "feedback_recall": 1}, "failures": {"predict": 4.4, "feedback_recall": 2}}
