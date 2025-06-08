@@ -1,0 +1,10 @@
+{
+  "type": "VotingRegressor",
+  "base_models": [
+    "best_tuner_0.600.pkl",
+    "best_feedback_0.000.pkl"
+  ],
+  "mae": 0.675,
+  "r2": 0.811,
+  "saved_at": "20250608-123142"
+}
